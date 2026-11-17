@@ -1,6 +1,6 @@
-# 🚘 FrontendParkingApp
+# 🚘 SmartVehicleManagementSystem
 
-A dynamic and responsive **Angular frontend** for a smart parking management system. This application enables company employees (managers and team leaders) to reserve parking spots, manage their vehicles, view their reservation history, and interact with a live dashboard. It is tightly integrated with a Spring Boot backend API.
+A dynamic and responsive **Angular frontend** for a smart Vehicle management system. This application enables company employees (managers and team leaders) to reserve parking spots, manage their vehicles, view their reservation history, and interact with a live dashboard. It is tightly integrated with a Spring Boot backend API.
 
 ## 🌐 Overview
 
@@ -62,8 +62,8 @@ src/app/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/MezhoudMedIsmail/FrontendParkingApp.git
-cd FrontendParkingApp
+git clone https://github.com/kalidoss11/Smart-vehicle-management-system.git
+cd SmartVehicleManagementSystem
 ```
 
 2. **Install dependencies**
@@ -103,6 +103,4 @@ ng serve
 We welcome feedback and contributions! Fork the project and submit a pull request for improvements or feature suggestions.
 
 
----
-
-Built with 💡 using Angular by [MezhoudMedIsmail](https://github.com/MezhoudMedIsmail)
+Kalidoss
